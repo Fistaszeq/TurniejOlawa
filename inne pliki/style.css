@@ -1,0 +1,50 @@
+.red-color
+{
+    color: red;
+    padding: 5px ;
+}
+
+.higher
+{
+    font-size: 40px;
+}
+
+.midium
+{
+    font-size: 30px;
+}
+
+
+title
+{   color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+body {  color: white;}
+
+h1{ color: red;
+    font-size: 80px;}
+div { background-color: black;}
+/*
+span
+{
+    background-color: black;
+}
+*/
+
+.none {border-style: dashed}
+.dotted {border-style: dotted}
+.dashed {border-style: dashed}
+.soild {border-style: solid}
+.double {border-style: double}
+.groove {border-style: groove}
+.ridge {border-style: ridge}
+.inset {border-style: inset;}
+.outset {border-style: outset}
+.dotted_dashed {border-style: dotted dashed}
+
+
+
+/* Taka tam moja notka
+dla mnie
